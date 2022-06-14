@@ -1,2 +1,2 @@
-a = 12
+a = int(input("O'zgaruvchi kiriting x = "))
 print(a)
